@@ -1,5 +1,8 @@
 # Check_lists
 
+Check list  Registration form Timetta
+https://docs.google.com/spreadsheets/d/1hBTugOoRIKUM32ygihv0YgxH2B_m1GvWfhuxlGWyXgA/edit?usp=sharing
+
 Check list+ BG (smoke/critical path/regression) mobile application "To Do List" (ENG)
 https://docs.google.com/spreadsheets/d/1yg1xGLFbg0Zf8yklWP6oWKZl_CSyu4jIyRjsCyIvbsI/edit?usp=sharing
 
